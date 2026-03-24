@@ -59,7 +59,7 @@ python main_pipeline.py
 2. Altere um valor no Excel
 3. Execute novamente
 
-### 🎯 Resultado esperado
+### Resultado esperado
 
 | id_produto_original | valor_produto | flag_ativo |
 | ------------------- | ------------- | ---------- |
@@ -86,7 +86,7 @@ python main_pipeline.py
 
 ---
 
-## 🏁 Conclusão
+## Conclusão
 
 Este projeto demonstra a construção de um pipeline de dados robusto e realista, aplicando boas práticas de engenharia de dados para garantir:
 
