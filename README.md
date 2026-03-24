@@ -1,4 +1,3 @@
-# mini_projeto_m2_iqvia
 # Mini Projeto ETL com SCD Tipo 2 (IQVIA)
 
 ## Visão Geral
